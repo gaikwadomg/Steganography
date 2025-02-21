@@ -5,6 +5,12 @@ This project implements **Steganography**, a technique for hiding secret data wi
 
 ---
 
+## Resuls 
+Output :
+![Alt](./Result/img%20(1).png)
+Terminal :
+![Alt](./Result/img%20(2).png)
+---
 ## Features
 - **Encode Text into Images**: Hide secret messages within image files without visibly altering the image.
 - **Decode Text from Images**: Extract hidden messages from encoded images.
